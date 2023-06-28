@@ -16,9 +16,14 @@ public class Member {
     this.grade = grade;
   }
 
-  /*public String toString(){
-
-  }*/
+  @Override
+  public String toString(){
+    return "Member{" +
+            "id=" + id +
+            ", name=" + name + '\'' +
+            ", grade=" +grade +
+            '}';
+  }
 
   public long getId() {
     return id;
