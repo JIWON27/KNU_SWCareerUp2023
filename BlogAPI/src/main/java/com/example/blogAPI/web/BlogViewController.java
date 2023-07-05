@@ -40,7 +40,7 @@ public class BlogViewController {
   public String getArticle(@PathVariable Long id, Model model){
     Article article = blogService.findById(id);
     // entity타입을 바로 화면ㅇ단에 보여줄 수 없으니 dto로 변환해주고 화면에 띄워야함.
-    model.addAttribute("article", new ArticleListViewResponseDto(article));
+    model.addAttribute("article", new ArticleViewResponseDto(article));
 
     return "article";
   }
