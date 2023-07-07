@@ -7,3 +7,4 @@
 ### Blog(API) 2023.07.03
 ### BlogAPI + Spring Security(1) 로그인 관련 2023.07.04
 ### BlogAPI + Spring Security(2) 토큰 관련 2023.07.05
+## BlogAPI 서비스 AWS ec2 서버 배포 실습 2023.07.06
