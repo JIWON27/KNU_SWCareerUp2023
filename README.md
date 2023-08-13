@@ -1,4 +1,5 @@
 # KNU_SWCareerUp2023
+## KNU SW 직무 역량 부트캠프 소스코드 정리
 https://velog.io/@security-won/series/KNU-SW-CareerUp2023
 ### demo 2023.06.27
 ### management 2023.06.28
